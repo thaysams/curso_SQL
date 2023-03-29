@@ -18,4 +18,4 @@ from sales.customers
 -- (1) Comando usado para selecionar colunas de tabelas
 -- (2) Quando selecionar mais de uma coluna, devem vir separadas por vírgula
 -- sem conter vírgula antes do comando FROM
--- (3) Utiliza-se o asterisco (*) para selecionar todas as colunas de uma tabela
+-- (3) Utiliza-se o asterisco (*) para selecionar todas as colunas da tabela
